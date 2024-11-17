@@ -24,8 +24,8 @@ import pandas as pd
 import os
 
 # Paths
-csv_path = "/Users/francescomorandi/Downloads/cifar-10/trainLabels.csv"
-image_folder = "/Users/francescomorandi/Downloads/cifar-10/train"
+csv_path = "path"
+image_folder = "path"
 
 # Load the CSV file
 df = pd.read_csv(csv_path)
